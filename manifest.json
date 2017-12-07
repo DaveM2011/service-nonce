@@ -1,0 +1,24 @@
+{
+  "name": "nonce",
+  "description": "Nonces in a box",
+  "author": "Dave Morton",
+  "contributors": [
+    {
+      "name": "Frank Celler",
+      "email": "no@idea"
+    }
+  ],
+  "engines": {
+    "arangodb": "^3.0.0"
+  },
+  "version": "1.0.1",
+  "license": "Apache 2",
+  "keywords": [
+    "nonce",
+    "crypto"
+  ],
+  "main": "main.js",
+  "provides": {
+    "@foxx/nonce": "1.0.1"
+  }
+}

@@ -1,2 +1,2 @@
-# service-nonce
+# foxx-nonce
 A straightforward nonce service
